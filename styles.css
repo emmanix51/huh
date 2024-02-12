@@ -39,7 +39,7 @@ body {
 }
 
 .container #amogus {
-  /* opacity: 0.9; */
+  filter:brightness(0);
   width: 240px;
   height: 100px;
   border: 0;
